@@ -1,0 +1,13 @@
+
+{
+    "root_path": "C:/Users/tanay/Downloads/DCVC-main/DCVC-main/ACMMM2022/HoneyBee_1920x1080_120fps_420_8bit_YUV",
+    "test_classes": {
+        "img":{
+        "test": 1,
+        "base_path":"img",
+        "src_type": "png",
+        "sequences": {"seq":{ "width": 1920,"height": 1080,"gop": 32,"frames": 4}}
+        }
+    
+    }
+}
